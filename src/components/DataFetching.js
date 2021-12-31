@@ -23,7 +23,7 @@ function DataFetching() {
     }, [idFromButtonClick])
 
 
-    const handleClick = () =>{
+    const handleClick = () => {
         SetIdFromButtonClick(id)
     }
     return (
